@@ -18,6 +18,10 @@ A premium, fully responsive industrial portfolio and engineering HTML template b
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design System
 
 ### Colors
