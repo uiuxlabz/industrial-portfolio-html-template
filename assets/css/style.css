@@ -232,6 +232,15 @@ p:last-child {
   line-height: var(--lh-normal);
 }
 
+.section-header {
+  margin-bottom: var(--sp-2xl);
+}
+
+.section-footer {
+  text-align: center;
+  margin-top: var(--sp-xl);
+}
+
 /* ─── Buttons ───────────────────────────────────────────────────────── */
 .btn {
   display: inline-flex;
@@ -963,6 +972,16 @@ p:last-child {
   font-size: 0.85rem;
   letter-spacing: 2px;
   margin-bottom: var(--sp-sm);
+}
+
+.star {
+  color: inherit;
+}
+
+.testimonial-card__info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
 }
 
 /* ─── CTA Banner ────────────────────────────────────────────────────── */
